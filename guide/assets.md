@@ -43,6 +43,8 @@ CSS.paintWorklet.addModule(workletURL)
 import shaderString from './shader.glsl?raw'
 ```
 
+### css中如何使用别名使用图片资源？
+
 ### 导入脚本作为 Worker {#importing-script-as-a-worker}
 
 脚本可以通过 `?worker` 或 `?sharedworker` 后缀导入为 web worker。
